@@ -6,7 +6,7 @@ export default function Uses() {
       <section>
         <h2 className="text-2xl font-semibold mb-4">Hardware</h2>
         <ul className="list-disc list-inside space-y-2 text-gray-800">
-          <li><strong>Watch:</strong> Fossil Gen 5 - The Carlyle HR Smoke</li>
+          <li><strong>Watch:</strong> Fossil Gen 5 - The Carlyle HR Smoke <em>(most favourite)</em></li>
           <li><strong>Laptop:</strong> Lenovo Ideapad (gets the job done 💪)</li>
           <li><strong>Monitor:</strong> Dell UltraSharp 24" (great for multitasking)</li>
           <li><strong>AI Assistant Device:</strong> Alexa Echo Dot</li>
