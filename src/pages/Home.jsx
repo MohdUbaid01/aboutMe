@@ -36,16 +36,7 @@ export default function Home() {
           continue to influence the way I approach things.
         </p>
 
-        <div>
-          <h3 className="text-xl font-bold text-gray-900">My Dad</h3>
-          <p className="text-gray-800 text-base">
-            My father has always supported me — emotionally and financially. He
-            believed in me even when I didn’t believe in myself. His love,
-            encouragement, and sacrifices have shaped who I am today. Everything
-            I’ve been able to do so far is because he stood by me.
-          </p>
-        </div>
-
+        
         <div>
           <h3 className="text-xl font-bold text-gray-900 pt-6">Kailash Nadh</h3>
           <p className="text-gray-600 text-base">Kailash Nadh (CTO, Zerodha)</p>
