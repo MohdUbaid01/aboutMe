@@ -2,7 +2,7 @@ export default function About() {
   return (
     <div className="font-sans space-y-6 px-4 py-8">
       <p className="text-gray-800 text-base rounded transition-colors duration-200 p-2">
-        I'm Mohd Ubaid, a curious developer who enjoys figuring things out. I have been exploring AI Agents, Chatbots, Computer Network and CRM systems.
+        I'm Mohd Ubaid, a curious programmer who enjoys figuring things out. I have been exploring AI Agents, Chatbots, Computer Network and CRM systems.
       </p>
 
       <p className="text-gray-800 text-base rounded transition-colors duration-200 p-2">
