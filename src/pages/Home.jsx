@@ -31,6 +31,9 @@ export default function Home() {
 
         {/* Inspiration Section */}
         <h2 className="text-2xl font-semibold text-gray-900 pt-8">Inspiration</h2>
+        <blockquote className="italic font-medium text-gray-800 border-l-4 border-gray-300 pl-4 my-3">
+            An idiot admires complexity, a genius admires simplicity.
+          </blockquote>
         <p className="text-gray-800 text-base">
           The people listed here have left a lasting impression on my thinking and
           continue to influence the way I approach things.
@@ -40,12 +43,8 @@ export default function Home() {
         <div>
           <h3 className="text-xl font-bold text-gray-900 pt-6">Kailash Nadh</h3>
           <p className="text-gray-600 text-base">Kailash Nadh (CTO, Zerodha)</p>
-          <blockquote className="italic font-medium text-gray-800 border-l-4 border-gray-300 pl-4 my-3">
-            An idiot admires complexity, a genius admires simplicity.
-          </blockquote>
           <p className="text-gray-800 text-base">
-            My software philosophy is deeply influenced by
-            by Kailash Nadh. I strive for simplicity and always try to use the
+            My software philosophy is deeply influenced by Kailash Nadh. I strive for simplicity and always try to use the
             right tool for the right job.
           </p>
         </div>
