@@ -7,7 +7,7 @@ export default function Now() {
       <div className="space-y-5">
         <div>
           <h2 className="font-semibold text-lg text-black">Reading</h2>
-          <p className="text-gray-800">The Pragmatic Programmer by Andy Hunt & Dave Thomas</p>
+          <p className="text-gray-800">The Pragmatic Programmer by Andy Hunt & Dave Thomas (Nowadays)</p>
         </div>
         <div>
           <h2 className="font-semibold text-lg text-black">Watching</h2>
